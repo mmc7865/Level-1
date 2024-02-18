@@ -126,4 +126,13 @@ h1 {
   font-weight: 600;
   border-radius: 5px;
   padding: 2px;
+  cursor: pointer;
+}
+.ri-instagram-line{
+  cursor: pointer;
+  
+}
+.ri-youtube-line{
+  cursor: pointer;
+
 }
